@@ -1,0 +1,15 @@
+
+
+file_name <- "2016_Wassertemperatur_Tagesmittel_2019-01-01_2022-01-07.csv"
+waterT_df <- read_delim(file_name,skip = 8, delim =';',locale = locale(encoding = "ISO-8859-15",decimal_mark = "."))
+
+for (j in 2019:2021) {
+  waterT_summer[idx,1] <- waterT_df$Stationsnummer[1]
+  waterT_summer[idx,2] <- j
+  waterT_df$Zeitstempel <- as.Date(waterT_df$Zeitstempel)
+  waterT_df$Wert <- as.numeric(waterT_df$Wert)
+  waterT_df_summer <- waterT_df %>% filter(Zeitstempel >= paste0(j,"-07-01"), Zeitstempel <= paste0(j,"-09-30"))
+  waterT_summer[idx,3] <- mean(waterT_df_summer$Wert)
+  waterT_summer$season <- "summer"
+  idx = idx+1
+}
