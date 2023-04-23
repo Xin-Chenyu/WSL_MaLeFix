@@ -1,0 +1,21 @@
+﻿PHYLUM,CLASS,ORDER,SPECIES,CTmax,Measured Temperature,REF,note
+Chordata,Amphibia,Urodela,Salamandra salamandra,36.6,water T,Duarte et al. (2012),
+Chordata,Amphibia,Urodela,Salamandra atra,34.2,body T,Degani (1982),
+Chordata,Amphibia,Anura,Bombina orientalis,,,,
+Chordata,Amphibia,Anura,Rana temporaria,37.2,water T,Duarte et al. (2012),
+Chordata,Amphibia,Urodela,Ichthyosaura alpestris,,,,
+Chordata,Amphibia,Urodela,Triturus carnifex,37.9,water T,Morley et al. (2018),Triturus dobrogicus (Austria)
+Chordata,Amphibia,Urodela,Triturus cristatus,37.8,water T,Duarte et al. (2012),
+Chordata,Amphibia,Urodela,Lissotriton helveticus,,,,
+Chordata,Amphibia,Urodela,Lissotriton vulgaris,,,,
+Chordata,Amphibia,Anura,Alytes obstetricans,,,,
+Chordata,Amphibia,Anura,Bombina variegata,38.3,water T,Sos (2007),
+Chordata,Amphibia,Anura,Bufo bufo,38.3,water T,Duarte et al. (2012),
+Chordata,Amphibia,Anura,Epidalea calamita,39.7,water T,Duarte et al. (2012),
+Chordata,Amphibia,Anura,Hyla arborea,40,water T,Duarte et al. (2012),
+Chordata,Amphibia,Anura,Bufotes viridis,,,,
+Chordata,Amphibia,Anura,Rana dalmatina,33.6,body T ,GlobalTherm,Rana catesbeiana (Italy)
+Chordata,Amphibia,Anura,Rana latastei,,,,
+Chordata,Amphibia,Anura,Hyla intermedia,,,,
+Chordata,Amphibia,Anura,Pelophylax ridibundus,,,,
+Chordata,Amphibia,Anura,Pelophylax esculentus,,,,

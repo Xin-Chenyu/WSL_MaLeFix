@@ -1,0 +1,320 @@
+﻿species,tmax (°C),tmin (°C),tmax metric,tmin metric,acclim-ated (Y/N),latitude collected,hemis-phere,altitude >600 m,habitat,phylum,class,order,family,Ref.
+Agroeca proxima,37.4,-6.7,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Liocranidae,1
+Clubiona similis,42,-16.9,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Clubionidae,1
+Clubiona trivialis,41.4,-7.4,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Clubionidae,1
+Dipoena inornata,43.2,-16.4,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Theridiidae,1
+Oedothorax apicatus,40.4,-7.5,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Linyphiidae,1
+Pardosa nigriceps,39.7,-7.2,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Lycosidae,1
+Philodromus aureolus,42.1,-10.8,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Philodromidae,1
+Scotina gracilipes,41.4,-6.9,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Liocranidae,1
+Stemonyphantes lineatus,40.5,-13.3,crit.,leth.,Y,56.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Linyphiidae,1
+Tibellus oblongus,42.8,-13,crit.,leth.,Y,55.4,N,3,terr.,Arthropoda,Arachnida,Araneae,Philodromidae,1
+Sceloporus undulatus,40.4,11.4,crit.,crit.,N,33.6,N,200,terr.,Chordata,Reptilia,Squamata,Phrynosomatidae,2
+Lacerta agilis,43.9,5.9,crit.,crit.,N,51.8,N,no data,terr.,Chordata,Reptilia,Squamata,Lacertidae,4
+Podarcis muralis,44.2,8.3,crit.,crit.,N,40.7,N,no data,terr.,Chordata,Reptilia,Squamata,Lacertidae,4
+Psammodromus algirus,43.5,7,crit.,crit.,N,40.6,N,no data,terr.,Chordata,Reptilia,Squamata,Lacertidae,4
+Psammodromus hispanicus,45.5,8.8,crit.,crit.,N,40.4,N,no data,terr.,Chordata,Reptilia,Squamata,Lacertidae,4
+Dipsosaurus dorsalis,47.5,14,crit.,crit.,N,33.8,N,no data,terr.,Chordata,Reptilia,Squamata,Iguania,4
+Chamaeleo bitaeniatus,42.2,4.4,crit.,crit.,N,1.2,N,2000,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Chamaeleo dilepis,43.6,7.6,crit.,crit.,N,2.4,S,800,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Chamaeleo ellioti,41.8,3.5,crit.,crit.,N,0.2,N,1800,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Chamaeleo hohnelii,40.8,5.1,crit.,crit.,N,1.3,S,1700,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Chamaeleo jacksonii,40,5.3,crit.,crit.,N,1.3,S,1700,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Chamaeleo schubotzi,41.6,1.4,crit.,crit.,N,0.2,S,3300,terr.,Chordata,Reptilia,Squamata,Chamaeleonidae,6
+Ctenotus regius,45.1,8.7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Ctenotus taeniolatus,44.7,11.4,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Ctenotus uber,45.5,9.1,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Egernia striolata,44.2,6.1,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Eremiascincus fasciolatus,41.2,9,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Eremiascincus richardsonii,42,7.3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Tiliqua rugosa,43,3.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,7
+Hemiergis peronii,38.6,6.8,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,"7, 8"
+Bufo alvarius,39.9,2.5,crit.,leth.,Y,31,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo canaliferlus,37.3,9.5,crit.,leth.,Y,15,N,914.4,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo canorus,38,-2,crit.,leth.,Y,38,N,2743.2,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo cognatus,41.3,-4,crit.,leth.,Y,31,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo debilis,40.1,2.5,crit.,leth.,Y,27,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo exsul,37.1,-4,crit.,leth.,Y,38,N,1524,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo haemititicus,37.5,9.5,crit.,leth.,Y,10,N,579.12,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo marinus,41.8,11,crit.,leth.,Y,9,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo marmoreus,40.2,7.8,crit.,leth.,Y,17,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Bufo mazatlanensis,39.9,5,crit.,leth.,Y,27,N,304.8,terr.,Chordata,Amphibia,Anura,Bufonidae,9
+Craugastor fleischmanni,31.4,6,crit.,leth.,N,31.4,N,1554.48,terr.,Chordata,Amphibia,Anura,Craugastoridae,9
+Dendrobates auratus,34.8,9.5,crit.,leth.,Y,26,N,304.8,terr.,Chordata,Amphibia,Anura,Dendrobatidae,9
+Hyla walkeri,38.1,-2.2,crit.,leth.,N,26,N,2255.52,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Leptodactylus melanotus,39.8,5,crit.,leth.,Y,30,N,304.8,terr.,Chordata,Amphibia,Anura,Leptodactylidae,9
+Pachymedusa dacnicolor,28.8,2.5,crit.,leth.,Y,8,N,304.8,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Pseudacris cadaverina,36.8,-1.4,crit.,leth.,Y,30,N,609.6,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Pseudacris regilla,36.6,-1,crit.,leth.,Y,30,N,304.8,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Pternohyla fodiens,39.5,6.5,crit.,leth.,Y,30,N,304.8,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Rana cascadae,33.6,-1,crit.,leth.,Y,40,N,2133.6,terr.,Chordata,Amphibia,Anura,Ranidae,9
+Rana palmipes,36.9,-1,crit.,leth.,Y,10,N,579.12,terr.,Chordata,Amphibia,Anura,Ranidae,9
+Rana pipiens,35.2,-1.6,crit.,leth.,Y,17,N,2255.52,terr.,Chordata,Amphibia,Anura,Ranidae,9
+Rana pretiosa,34.8,-1,crit.,leth.,Y,52,N,609.6,terr.,Chordata,Amphibia,Anura,Ranidae,9
+Rana warszewitschii,32.8,4.8,crit.,leth.,Y,10,N,1554.48,terr.,Chordata,Amphibia,Anura,Ranidae,9
+Smilisca baudini,40.4,5,crit.,leth.,Y,30,N,304.8,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Spea hammondi,40.3,0,crit.,leth.,Y,30,N,304.8,terr.,Chordata,Amphibia,Anura,Scaphiopodidae,9
+Tlalocohyla smithi,42.5,5,crit.,leth.,N,30,N,304.8,terr.,Chordata,Amphibia,Anura,Hylidae,9
+Tarentola boettgeri,42.6,9.2,crit.,crit.,N,28,N,0,terr.,Chordata,Reptilia,Squamata,Gekkonidae,10
+Eleutherodactylus coqui,37.2,7.5,crit.,crit.,N,18.4,N,15,terr.,Chordata,Amphibia,Anura,Leptodactylidae,11
+Gambelia wislizennii,43.6,12.6,crit.,crit.,N,39.4,N,no data,terr.,Chordata,Reptilia,Squamata,Iguania,13
+Liolaemus abaucan,47.3,15.41,crit.,crit.,Y,27.2,S,1200,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus albiceps,44.33,7.05,crit.,crit.,Y,24.3,S,3060,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus bibronii,44.53,8.49,crit.,crit.,Y,40.3,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus boulengeri,43.99,9.4,crit.,crit.,Y,42.4,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus canqueli,44.6,6.99,crit.,crit.,Y,44,S,900,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus cf._capillitas,43.7,7.47,crit.,crit.,Y,27.4,S,2500,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus cf._elongatus,45.1,7.68,crit.,crit.,Y,41.9,S,700,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus chacoensis,44.1,14.9,crit.,crit.,Y,28.8,S,700,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus cuyanus,45.7,12,crit.,crit.,Y,28.2,S,400,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus darwinii,44.68,10.11,crit.,crit.,Y,29.5,S,800,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus fitzingerii,44.45,8.24,crit.,crit.,Y,43.5,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus irregularis,44.98,6.96,crit.,crit.,Y,24.3,S,3060,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus kingii,44.5,7.01,crit.,crit.,Y,45.4,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus koslowskyi,46.1,13.22,crit.,crit.,Y,28.8,S,800,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus kriegi,43.67,7.6,crit.,crit.,Y,42.1,S,950,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus laurenti,46.18,12.2,crit.,crit.,Y,30.1,S,800,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus melanops,44.94,5.65,crit.,crit.,Y,42.3,S,900,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus multicolor,44.7,8.06,crit.,crit.,Y,40.4,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus multimaculatus,43.83,8.93,crit.,crit.,Y,38.5,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus olongasta,44.58,11.85,crit.,crit.,Y,29.8,S,900,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus petrophilus,45.23,7.31,crit.,crit.,Y,42.3,S,900,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus poecilochromus,44.16,9.35,crit.,crit.,Y,27.5,S,3500,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus pseudoanomalus,45.93,12.19,crit.,crit.,Y,28.8,S,990,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus quilmes,44.69,8.46,crit.,crit.,Y,26.6,S,1600,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus riojanus,45.2,10.7,crit.,crit.,Y,30.2,S,500,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus robertmertensi,43,14.07,crit.,crit.,Y,28.8,S,690,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus rothi,43.8,5.5,crit.,crit.,Y,40.3,S,500,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus salinicola,48.21,14.2,crit.,crit.,Y,27.5,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus scapularis,45.57,9.39,crit.,crit.,Y,26.6,S,1000,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus scrocchi,43.91,8.83,crit.,crit.,Y,24.1,S,3200,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus sp._3,43.85,9.67,crit.,crit.,Y,24.3,S,3300,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Liolaemus xanthoviridis,44.48,7.86,crit.,crit.,Y,43.7,S,0,terr.,Chordata,Reptilia,Squamata,Tropiduridae,14
+Elgaria multicarinatus_webbi,41.4,2.2,crit.,crit.,N,34,N,no data,terr.,Chordata,Reptilia,Squamata,Anguidae,15
+Halozetes fulvus,39.9,-6.9,crit.,leth.,Y,46.9,S,0,terr.,Arthropoda,Arachnida,Acarina,Oribatidae,19
+Podacarus auberti,39.5,-5.1,crit.,leth.,Y,46.9,S,0,terr.,Arthropoda,Arachnida,Acari,Podacaridae,19
+Plestiodon elegans,41.9,9.3,crit.,crit.,N,30.3,N,18,terr.,Chordata,Reptilia,Squamata,Scincidae,20
+Imbrasia belina,43.1,8.8,crit.,crit.,N,28,S,no data,terr.,Arthropoda,Insecta,Lepidoptera,Saturniidae,23
+Zootoca vivipara,43.9,1.9,crit.,crit.,N,49.9,N,250,terr.,Chordata,Reptilia,Squamata,Lacertidae,24
+Laudakia stellio,45,12.6,crit.,crit.,N,30.8,N,170,terr.,Chordata,Reptilia,Squamata,Agamidae,26
+Trapelus savignyi,47.2,12,crit.,crit.,N,31.1,N,330,terr.,Chordata,Reptilia,Squamata,Agamidae,26
+Coptotermes formosanus,45.9,7.2,crit.,crit.,Y,39.4,N,200,terr.,Arthropoda,Insecta,Isoptera,Rhinotermitidae,27
+Reticulitermes flavipes,44.85,1.6,crit.,crit.,Y,39.4,N,200,terr.,Arthropoda,Insecta,Isoptera,Rhinotermitidae,27
+Sphenomorphus incognitus,41.5,11.6,crit.,crit.,Y,23,N,0,terr.,Chordata,Reptilia,Squamata,Scincidae,28
+Sphenomorphus taiwanensis,38.4,4.9,crit.,crit.,Y,24,N,2700,terr.,Chordata,Reptilia,Squamata,Scincidae,28
+Protobothrops mucrosquamatus,38.6,3.5,crit.,crit.,Y,23.8,N,0,terr.,Chordata,Reptilia,Squamata,Viperidae,29
+Trimeresurus gracilis,38.3,3.7,crit.,crit.,Y,23.5,N,2000,terr.,Chordata,Reptilia,Squamata,Viperidae,29
+Trimeresurus stejnegeri_stejnegeri,38.9,5.6,crit.,crit.,Y,24.7,N,0,terr.,Chordata,Reptilia,Squamata,Viperidae,29
+Sphaerodactylus gaigeae,38.2,12.5,crit.,crit.,N,18.1,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Sphaerodactylus klauberi,36.3,10.4,crit.,crit.,N,18.1,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Sphaerodactylus macrolepis,39.5,11.8,crit.,crit.,N,18,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Sphaerodactylus nicholsi,40.5,12.6,crit.,crit.,N,18,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Sphaerodactylus roosevelti,39.5,11.4,crit.,crit.,N,18,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Sphaerodactylus townsendi,41.7,11.4,crit.,crit.,N,18.3,N,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,within 30
+Anolis cristatellus,37.1,8.9,crit.,crit.,N,18.5,N,no data,terr.,Chordata,Reptilia,Squamata,Polychrotidae,31
+Anolis cooki,38.8,9.3,crit.,crit.,N,18.1,N,no data,terr.,Chordata,Reptilia,Squamata,Polychrotidae,within 30
+Anolis gundlachi,35.4,6.3,crit.,crit.,N,18.2,N,no data,terr.,Chordata,Reptilia,Squamata,Polychrotidae,within 30
+Sceloporus merriami,41.5,14.1,crit.,crit.,N,29.2,N,no data,terr.,Chordata,Reptilia,Squamata,Iguania,within 30
+Phymaturus patagonicus,39.9,9.8,crit.,crit.,N,41,S,900,terr.,Chordata,Reptilia,Squamata,Tropiduridae,32
+Myro kerguelenensis,35.4,-7.1,crit.,crit.,Y,46.9,S,99,terr.,Arthropoda,Arachnida,Araneae,Desidae,33
+Prinerigone vagans,35.9,-8.1,crit.,crit.,Y,46.9,S,88,terr.,Arthropoda,Arachnida,Araneae,Linyphiidae,33
+Linepithema humile,40,-1,crit.,crit.,Y,33.9,S,136,terr.,Arthropoda,Insecta,Hymenoptera,Formicidae,34
+Drosophila albomicans,32.5,5.3,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila angularis,34.4,-2.1,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila auraria,33.9,-3.3,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila biauraria,32.5,-2.7,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila bipectinata,33.5,7.1,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila bizonata,32.9,-2.7,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila bocki,33.2,6.8,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila brachynephros,33.6,-3.7,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila curvispina,32.6,-4.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila daruma,33.4,-0.2,crit.,leth.,N,35,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila elegans,33.6,3.6,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila ficusphila,33.5,1.7,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila kanekoi,35.4,-5.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila lacertosa,31,0.7,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila lacteicornis,32.5,1.7,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila lutescens,31.1,0.5,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila nigromaculata,34.3,-4.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila orientacea,31.9,-4.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila quadrilineata,33.9,6.8,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila ruberrima,32.1,2.5,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila rufa,32.9,0.6,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila sternopleuralis,31.4,1.7,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila suzukii,32.7,-1.2,crit.,leth.,N,35.5,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila takahashii,32.5,4.5,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Drosophila unispina,32.3,-3.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Hirtodrosophila histrioides,32.3,-3.5,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Scaptodrosophila bryani,35.5,4.2,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Scaptodrosophila coracina,34.5,-2.4,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Scaptodrosophila dorsocentralis,34.2,8.3,crit.,leth.,N,24.3,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Scaptodrosophila pallida,33.9,-6.3,crit.,leth.,N,43.1,N,no data,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,35
+Pringleophaga marioni,38.7,-6,crit.,crit.,N,46.9,S,99,terr.,Arthropoda,Insecta,Lepidoptera,Tineidae,36
+Spodoptera exempta,55.94,11.81,crit.,crit.,N,25.7,S,1282,terr.,Arthropoda,Insecta,Lepidoptera,Noctuidae,37
+Embryonopsis halticella,39.7,-0.2,crit.,crit.,Y,46.9,S,no data,terr.,Arthropoda,Insecta,Lepidoptera,Yponomeutidae,38
+Paractora dreuxi,35.5,-5.5,crit.,crit.,N,46.9,S,99,terr.,Arthropoda,Insecta,Diptera,Helcomyzidae,39
+Bothrometopus brevis,34.4,-5.1,crit.,crit.,Y,53,S,5,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,40
+Bothrometopus gracilipes,36.8,-6,crit.,crit.,Y,53,S,200,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,40
+Canonopsis sericeus,38.7,-5,crit.,crit.,Y,53,S,5,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,40
+Ectemnorhinus viridis,33.9,-4.6,crit.,crit.,Y,53,S,5,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,40
+Platysaurus intermedius,44.8,8.9,crit.,crit.,N,24.6,S,640,terr.,Chordata,Reptilia,Squamata,Cordylidae,41
+Desmognathus fuscus,35,-2.3,crit.,crit.,Y,39.7,N,300,terr.,Chordata,Amphibia,Caudata,Plethodontidae,42
+Eurycea bislineata,35,-2,crit.,crit.,Y,39.7,N,300,terr.,Chordata,Amphibia,Caudata,Plethodontidae,43
+Rana sylvaticus,33.9,0.5,crit.,crit.,N,42.6,N,67,terr.,Chordata,Amphibia,Anura,Ranidae,44
+Xantusia riversiana,39,6.6,crit.,crit.,N,32.9,N,250,terr.,Chordata,Reptilia,Squamata,Xantusiidae,45
+Hodotermes mossambicus,48,6,crit.,crit.,Y,28,S,no data,terr.,Arthropoda,Insecta,Isoptera,Hodotermitidae,47
+Drosophila albomicans,33,-1.5,crit.,leth.,Y,26.5,N,50,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,50
+Drosophila curviceps,30,-5.5,crit.,leth.,Y,36.5,N,1600,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,50
+Drosophila immigrans,31.5,-1.5,crit.,leth.,Y,43,N,30,terr.,Arthropoda,Insecta,Diptera,Drosophilidae,50
+Onymacris bicolor,49,9,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Onymacris marginipennis,47.4,9.4,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Onymacris plana,48.9,10.5,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Onymacris rugatipennis,50.5,10.5,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Onymacris unguicularis,50.4,12.3,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Physadesmia globosa,50.8,13.7,crit.,crit.,N,22,S,no data,terr.,Arthropoda,Insecta,Coleoptera,Tenebrionidae,56
+Misumenoides formosipes,48.2,2.2,crit.,crit.,N,40.5,N,36.9,terr.,Arthropoda,Arachnida,Araneae,Thomisidae,57
+Misumenops asperatus,45.1,-1.4,crit.,crit.,N,40.5,N,36.9,terr.,Arthropoda,Arachnida,Araneae,Thomisidae,57
+Isotoma klovstadi,34.5,-13.3,crit.,crit.,N,71.7,S,0,terr.,Arthropoda,Entognatha,Collembola,Isotomidae,59
+Cryptopygus cisantarcticus,31.8,-7.9,crit.,crit.,N,71.7,S,0,terr.,Arthropoda,Entognatha,Collembola,Isotomidae,59
+Friesea grisea,35.1,-7.7,crit.,crit.,N,71.7,S,0,terr.,Arthropoda,Entognatha,Collembola,Isotomidae,59
+Antarctopsocus jeanneli,29.5,-13,crit.,leth.,N,46.9,S,99,terr.,Arthropoda,Insecta,Psocoptera,Elipsocidae,60
+Halmaeusa atriceps,32.4,-4.1,crit.,crit.,Y,46.9,S,99,terr.,Arthropoda,Insecta,Coleoptera,Staphylinidae,60
+Amphibolurus decresii,43.8,7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Agaidae,61
+Amphibolurus diemensis,44.8,3.1,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Agaidae,61
+Amphibolurus muricatus,42.3,3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Agaidae,61
+Austrelaps superbus,41.2,3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Elapidae,61
+Bassiana duperreyi,43.5,3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Egernia cunninghami,41.9,4.7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Egernia inornata,41.6,9.8,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Egernia saxatilis,41.8,4.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Egernia whitii,41.8,4,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Eulamprus kosciuskoi,40.2,2.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Eulamprus quoyi,39.8,6,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Gehyra variegata,43.8,6,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,61
+Hemiergis decresiensis,39.3,9.6,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Heteronotia binoei,40.6,9.6,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,61
+Lampropholis delicata,40.8,4.7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Leiolopisma mustelinum,38.6,5.9,crit.,crit.,Y,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Moloch horridus,42.5,3.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Agaidae,61
+Nannoscincus maccoyi,37,4,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Gekkonidae,61
+Niveoscincus metallicum,40,2.7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Niveoscincus ocellatum,40.1,3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Notechis scutatus,38,2.2,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Hydrophiidae,61
+Physignathus gilberti,41.8,2.7,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Agaidae,61
+Pseudemoia entrecasteauxii,42.1,2.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Pseudemoia spenceri,42.3,1.9,crit.,crit.,Y,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Pseudonaja textilis,42.4,3.5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Hydrophiidae,61
+Sphenomorphus tympanum,39.8,2.2,crit.,crit.,Y,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Suta flagellum,40,3,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Hydrophiidae,61
+Tiliqua nigrolutea,42.5,5.2,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Varanus varius,43.7,5,crit.,crit.,N,30,S,no data,terr.,Chordata,Reptilia,Squamata,Varanidae,61
+Leiolopisma guichenoti,42,1.9,crit.,crit.,Y,30,S,no data,terr.,Chordata,Reptilia,Squamata,Scincidae,61
+Chirodica chalcoptera,41,0.1,crit.,crit.,Y,33.6,S,350,terr.,Arthropoda,Insecta,Coleoptera,Chrysomelidae,64
+Glossina pallidipes,37.9,3.7,crit.,crit.,N,4.2,S,388,terr.,Arthropoda,Insecta,Diptera,Glossinidae,65
+Ameiva festiva,43.7,15.5,crit.,crit.,N,10.5,N,50,terr.,Chordata,Reptilia,Squamata,Teiidae,66
+Anolis carolinensis,41.7,4.7,crit.,crit.,N,31,N,0,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis cupreus,38.4,11.8,crit.,crit.,N,10.5,N,10,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis humilis,35.6,12.4,crit.,crit.,N,10.5,N,50,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis intermedius,38.4,11.1,crit.,crit.,N,10.3,N,1450,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis lemurinus,37.3,12.9,crit.,crit.,N,10.5,N,50,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis limifrons,36.8,12.3,crit.,crit.,N,10.5,N,50,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis lionotus,36.7,14.7,crit.,crit.,N,10.5,N,50,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Anolis tropidolepis,33.1,9.5,crit.,crit.,N,10.3,N,1500,terr.,Chordata,Reptilia,Squamata,Polychrotidae,66
+Cnemidophorus tigris,45.1,10.5,crit.,crit.,N,43,N,300,terr.,Chordata,Reptilia,Squamata,Teiidae,66
+Lepidophyma flavimaculatum,38,11.3,crit.,crit.,N,10.5,N,2000,terr.,Chordata,Reptilia,Squamata,Xantusiidae,66
+Sceloporus graciosus,44.7,4.8,crit.,crit.,N,33.9,N,230,terr.,Chordata,Reptilia,Squamata,Phrynosomatidae,66
+Sceloporus malachiticus,42.8,9.7,crit.,crit.,N,10.3,N,1400,terr.,Chordata,Reptilia,Squamata,Phrynosomatidae,66
+Sceloporus occidentalis,44.1,4.6,crit.,crit.,N,45.8,N,300,terr.,Chordata,Reptilia,Squamata,Phrynosomatidae,66
+Sceloporus variabilis,43.1,10.2,crit.,crit.,N,10.5,N,0,terr.,Chordata,Reptilia,Squamata,Phrynosomatidae,66
+Xantusia vigilis,41.6,6.9,crit.,crit.,N,33.9,N,50,terr.,Chordata,Reptilia,Squamata,Xantusiidae,66
+Bothrometopus elongatus,31,-8,crit.,leth.,Y,46.9,S,150,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Bothrometopus parvulus,32,-8,crit.,leth.,Y,46.9,S,0,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Bothrometopus randi,31,-9,crit.,leth.,Y,46.9,S,0,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Ectemnorhinus marioni,34,-9,crit.,leth.,Y,46.9,S,50,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Ectemnorhinus similis,34,-10,crit.,leth.,N,46.9,S,50,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Palirhoeus eatoni,32,-9,crit.,leth.,Y,46.9,S,0,terr.,Arthropoda,Insecta,Coleoptera,Curculionidae,67
+Uta stansburiana,43.7,7.8,crit.,crit.,N,39.5,N,1658,terr.,Chordata,Reptilia,Squamata,Iguania,69
+Eremias brenchleyi,40.8,5.1,crit.,crit.,N,33.6,N,4,terr.,Chordata,Reptilia,Squamata,Lacertidae,70
+Takydromus septentrionalis,44.5,4.9,crit.,crit.,Y,31.2,N,0,terr.,Chordata,Reptilia,Squamata,Lacertidae,71
+Plestiodon gilberti,42.3,7.7,crit.,crit.,N,37,N,600,terr.,Chordata,Reptilia,Squamata,Scincidae,72
+Takydromus sexlineatus,42.2,6.4,crit.,crit.,N,24.7,N,28,terr.,Chordata,Reptilia,Squamata,Lacertidae,73
+Orchomene pinguides,12,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Amphipoda,Lysianassidae,3
+Paraleptognathia antarctica,10,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Tanaidacea,Anarthruridae,3
+Philomedidae sp.,14,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Myodocopida,Philomedidae,3
+Paramoera walkeri,15.02,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Amphipoda,Eusiridae,3
+Heterophoxus videns,13,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Amphipoda,Phoxocephalidae,3
+Eudorella splendida,15,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Malacostraca,Cumacea,Leuconidae,3
+Nymphon sp.,20,-1.8,crit.,crit.,N,77.8,S,0,mar.,Arthropoda,Pycnogonida,Pantopoda,Nymphonidae,3
+Onoba gelida,14,-1.8,crit.,crit.,N,77.8,S,0,mar.,Mollusca,Gastropoda,Neotaenioglossa,Rissoidae,3
+Margarites refulgens,19,-1.8,crit.,crit.,N,77.8,S,0,mar.,Mollusca,Gastropoda,Archaeogastropoda,Trochidae,3
+Cyprinodon variegatus,44.2,0.6,crit.,crit.,Y,26,N,0,mar.,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,5
+Clupea herengus,23.5,-1.8,crit.,leth.,N,57,N,0,mar.,Chordata,Actinopterygii,Clupeiformes,Clupeidae,5
+Tautogolabrus adspersus,30,0.6,crit.,leth.,N,42,N,0,mar.,Chordata,Actinopterygii,Perciformes,Labridae,5
+Oncorhynchus keta,23.2,-0.7,crit.,leth.,Y,52,N,0,mar.,Chordata,Actinopterygii,Salmoniformes,Salmonidae,5
+Oncorhynchus nerka,21.5,-0.7,crit.,leth.,Y,52,N,0,mar.,Chordata,Actinopterygii,Salmoniformes,Salmonidae,5
+Abra tenuis,33.4,-1.7,crit.,leth.,N,53,N,0,mar.,Mollusca,Bivalvia,Veneroida,Semelidae,12
+Anadara granosa,41.5,4.8,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Arcoida,Arcidae,12
+Anodontia bullula,36.3,7.2,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Lucinidae,12
+Anomalocardia squamosa,37.3,3.1,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Veneridae,12
+Barbatia pistachia,36.2,6,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Pteriomorpha,Arcidae,12
+Cerastoderma edule,32.2,-6.2,crit.,leth.,N,53,N,0,mar.,Mollusca,Bivalvia,Veneroida,Cardiidae,12
+Corbula sp,37.7,5.5,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Corbulidae,12
+Divaricella irpex,36.9,5.5,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Lucinidae,12
+Gafrarium dispar,41.8,7.3,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Veneridae,12
+Macoma balthica,29.4,-7,crit.,leth.,N,53,N,0,mar.,Mollusca,Bivalvia,Veneroida,Tellinidae,12
+Siliqua sp,33.5,6.1,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,haridae,12
+Tellina capsoides,38,3.4,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Tellinidae,12
+Tellina piratica,37.6,3.6,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Tellinidae,12
+Tellina sp,36.3,3.5,crit.,leth.,N,17,S,0,mar.,Mollusca,Bivalvia,Veneroida,Tellinidae,12
+Kerguelenella lateralis,31.8,-17.8,crit.,leth.,N,54.2,S,0,mar.,Mollusca,Gastropoda,Basommatophora,Siphonariidae,16
+Nacella concinna,15.6,-12.9,crit.,leth.,N,54.2,S,0,mar.,Mollusca,Gastropoda,Archaeogastropoda,Patellidae,16
+Littorina littorea,35.3,-13,crit.,leth.,Y,55.8,N,3.073,mar.,Mollusca,Gastropoda,Neotaenioglossa,Littorinidae,17
+Littorina obtusata,29.6,-13,crit.,leth.,Y,55.8,N,3.077,mar.,Mollusca,Gastropoda,Neotaenioglossa,Littorinidae,17
+Littorina saxatilis,35,-16.4,crit.,leth.,Y,55.8,N,3.407,mar.,Mollusca,Gastropoda,Neotaenioglossa,Littorinidae,17
+Mytilus edulis,30.5,-8.2,crit.,leth.,Y,53,N,2.9,mar.,Mollusca,Bivalvia,Mytiloida,Mytilidae,17
+Nucella lapillus,28.2,-6.4,crit.,leth.,Y,55.8,N,2.59,mar.,Mollusca,Gastropoda,Archaeogastropoda,Patellidae,17
+Semibalanus balanoides,34.9,-14.6,crit.,leth.,Y,55.8,N,3.13,mar.,Arthropoda,Maxillopoda,Sessilia,Archaeobalanidae,17
+Tectura testudinalis,25.5,-7.4,crit.,leth.,Y,55.8,N,0.803,mar.,Mollusca,Gastropoda,Patellogastropoda,Lottiidae,17
+Balanus crenatus,25.2,-1.4,crit.,leth.,Y,55.8,N,0.907,mar.,Arthropoda,Maxillopoda,Sessilia,Balanidae,18
+Gibbula cineraria,27,-1.1,crit.,leth.,Y,55.8,N,2.567,mar.,Mollusca,Gastropoda,Archaeogastropoda,Trochidae,18
+Littorina fabalis,29.9,-13.3,crit.,leth.,Y,55.8,N,3.063,mar.,Mollusca,Gastropoda,Neotaenioglossa,Littorinidae,18
+Tigriopus angulatus,21.9,-7.6,crit.,leth.,N,53.8,S,0,mar.,Arthropoda,Maxillopoda,Harpacticoida,Harpacticidae,17
+Tigriopus brevicornis,35.1,-16.9,crit.,leth.,Y,55.8,N,0,mar.,Arthropoda,Maxillopoda,Harpacticoida,Harpacticidae,17
+Tigriopus fulvus,43.7,-2.1,crit.,leth.,N,32.6,N,0,mar.,Arthropoda,Maxillopoda,Harpacticoida,Harpacticidae,17
+Halozetes belgicae,40.1,-4.7,crit.,leth.,Y,46.9,S,0,mar.,Arthropoda,Arachnida,Acarina,Oribatidae,19
+Halozetes marinus,37.9,-5.9,crit.,leth.,Y,46.9,S,0,mar.,Arthropoda,Arachnida,Acarina,Oribatidae,19
+Halozetes marionensis,37.4,-5.4,crit.,leth.,Y,46.9,S,0,mar.,Arthropoda,Arachnida,Acarina,Oribatidae,19
+Girella nigricans,31.4,4.6,crit.,leth.,N,34,N,0,mar.,Chordata,Actinopterygii,Perciformes,Kyphosidae,5
+Atherinops affinis,31.7,7.8,crit.,leth.,N,33,N,0,mar.,Chordata,Actinopterygii,Atheriniformes,Atherinidae,5
+Fundulus parvipinnis,36.5,1.2,crit.,leth.,N,33,N,0,mar.,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,5
+Bathygobius fuscus,42.6,7.3,crit.,crit.,Y,5.5,S,0,mar.,Chordata,Actinopterygii,Perciformes,Gobiidae,21
+Liza vaigiensis,45.3,7.1,crit.,crit.,Y,5.5,S,0,mar.,Chordata,Actinopterygii,Mugiliformes,Mugilidae,21
+Bathygobius sp1,43,9.8,crit.,crit.,Y,5.5,S,0,mar.,Chordata,Actinopterygii,Perciformes,Gobiidae,21
+Dascyllus aruanus,41.4,11.6,crit.,crit.,Y,5.5,S,0,mar.,Chordata,Actinopterygii,Perciformes,Pomacentridae,21
+Apogon novemfasciatus,40.9,12.6,crit.,crit.,Y,5.5,S,0,mar.,Chordata,Actinopterygii,Perciformes,Apogonidae,21
+Dasyatis sabina,41.8,2.5,crit.,crit.,Y,29.7,N,0,mar.,Chordata,Elasmobranchii,Rajiformes,Dasyatidae,22
+Lepidonotothen nudifrons,9,-1.5,crit.,crit.,N,67.1,S,0,mar.,Chordata,Actinopterygii,Perciformes,Nototheniidae,25
+Menidia menidia,32.5,1.5,crit.,leth.,N,40,N,0,mar.,Chordata,Actinopterygii,Atheriniformes,Atherinopsidae,5
+Pseudopleuronectes americanus,29.1,1,crit.,leth.,N,40,N,0,mar.,Chordata,Actinopterygii,Atheriniformes,Pleuronectidae,5
+Sphoeroides maculatus,32.5,7.6,crit.,leth.,N,40,N,0,mar.,Chordata,Actinopterygii,Tetraodontiformes,Tetradontidae,5
+Cyprinodon dearborni,35.7,15,crit.,leth.,N,18,N,0,mar.,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,5
+Rivulus marmoratus,35.7,15,crit.,leth.,N,18,N,0,mar.,Chordata,Actinopterygii,Cyprinodontiformes,Cyprinodontidae,5
+Hemigrapsus nudus,33.6,3.5,crit.,crit.,N,48.8,N,0,mar.,Arthropoda,Malacostraca,DecapodaGrapsoidea,Varunidae,46
+Apogon dovii,35.9,13.1,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Apogonidae,"48,49"
+Apogon pacifici,34.7,10.8,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Apogonidae,"48,49"
+Bathygobius ramosus,39.6,11.9,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Gobiidae,"48,49"
+Chromis atrilobata,35.2,11.2,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Pomacentridae,"48,49"
+Cirrhitichthys oxycephalus,35.8,11.4,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Cirrhitidae,"48,49"
+Coryphopterus urospilus,35.4,12.3,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Gobiidae,"48,49"
+Eucinostomus gracilis,38,12.4,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Gerreidae,"48,49"
+Haemulon steindachneri,37.2,13.2,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Haemulidae,"48,49"
+Halichoeres dispilus,35.8,15.6,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Labridae,"48,49"
+Lutjanus guttatus,37.4,12,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Lutjanidae,"48,49"
+Malacoctenus zonifer,38.2,12.5,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Labrisomidae,"48,49"
+Mugil curema,40.8,10.8,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Mugilidae,"48,49"
+Plagiotremus azaleus,35.3,13.4,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Blenniidae,"48,49"
+Stegastes acapulcoensis,37.7,12.6,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Pomacentridae,"48,49"
+Thalassoma lucasanum,36,16.3,crit.,crit.,N,3,N,0,mar.,Chordata,Actinopterygii,Perciformes,Labridae,"48,49"
+Liothyrella uva,4.5,-1.5,crit.,crit.,N,60.7,S,0,mar.,Brachiopoda,Articulata,Terebratulida,Terebratulidae,51
+Nacella concinna,9,-1.5,crit.,crit.,N,60.7,S,0,mar.,Mollusca,Gastropoda,Archaeogastropoda,Patellidae,51
+Laternula elliptica,9,-1.5,crit.,crit.,N,67.5,S,0,mar.,Mollusca,Bivalvia,Pholadomyoida,Laternulidae,52

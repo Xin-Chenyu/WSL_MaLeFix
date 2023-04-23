@@ -1,0 +1,334 @@
+﻿Species,Taxon,Body Mass,LTNZ,UTNZ,TNZ,Latitude,Longitude,Acclimatization*,Reference
+,,(g),(°C),(°C),(°C),(°N),(°W),,
+,Afrosoricida,,,,,,,,
+Setifer setosus,Tenrecidae,530,28,33,5,25.53,-80.16,A,McNab 1980
+,Aotidae,,,,,,,,
+Aotus trivirgatus,Primates,1020,28,30,2,22.35,103.2,A,"Le-Maho et al ., 1981"
+,Primates,,,,,,,,
+Capra hircus,Primates,21000,9,30,21,7.36,12.35,A,"Holmes and Moore 1981; Luiting et al .,"
+,,,,,,,,,1985
+Kobus ellipsiprymnus,Bovidae,100000,13,37,24,-0.1,29.58,W,"Taylor et al ., 1969"
+Madoqua kirkii,Bovidae,4600,25,35,10,-29.52,30.54,W,"Maskrey and Hoppe, 1979"
+Philantomba monticola,Bovidae,4400,26,32,6,-25.431,28.131,A,"Haim and Skinner, 1991"
+Raphicerus campestris,Bovidae,8500,30,33,3,-25.432,28.132,A,"Haim and Skinner, 1991"
+Sus scrofa,Suidae,48000,4,22,18,14.058,108.277,A,"Huynh et al ., 2005"
+,,,,,,,,,
+Pecari tajacu,Tayassuidae,20000,28,35,7,32.142,-111.05,W,Zervanos 1975
+Tragulus javanicus,Tragulidae,1618,26.6,29,2.4,3.45,101.41,W,"Whittow et al., 1977"
+,Carnivora,,,,,,,,
+Canis mesomelas,Canidae,7720,22,26,4,-30.333,22.566,W,"Downs et al ., 1991"
+Canis latrans,Canidae,10000,22,26,4,33.262,-112.05,W,Golightly and Ohmart 1983
+Vulpes macrotis,Canidae,1868,22,33,11,33.268,-112.04,W,Golightly and Ohmart 1983
+Cerdocyon thous,Canidae,5444,25,37,12,38.49,-77.57,A,"Henneman et al ., 1983"
+Canis lupus,Canidae,18066.67,10,32.5,22.5,32.73,-117.145,A,"Irving et al ., 1995"
+Vulpes vulpes,Canidae,5010,-10,30,40,69.1,-151.46,A,"Irving et al ., 1995"
+Vulpes zerda,Canidae,1106,23.4,32,8.6,33.418,8.18,W,Noll-Banholzer 1979
+Fossa fossana,Eupleridae,2260,26,34,8,38.53,46.52,A,McNab 1995
+Leptailurus serval,Felidae,10100,15,30,15,-30.312,22.565,W,"Downs et al., 1991"
+Galerella sanguinea,Herpestidae,540,26,31,5,10.21,40.24,W,"Kamau et al ., 1979"
+Suricata suricatta,Herpestidae,850,30,33,3,-33.47,24.3,A,Muller and Lojewski 1986
+Spilogale putorius,Mephitidae,624,30,36,6,26.28,-81.04,A,Knudsen and Kilgore 1990
+Eira barbara,Mustelidae,2950,26,35,9,11.43,-70.11,W,McNab 1995
+Martes americana,Mustelidae,1038,26,35,9,38.52,-106.58,A,Worthen and Kilgore 1981
+Nasua nasua,Procyonidae,4000,25,33,8,7.43,-82.53,A,"Hugot et al ., 1979"
+Nasua narica,Procyonidae,5554,25,35,10,38.91,-78.19,W,"Hugot et al ., 1979"
+Potos flavus,Procyonidae,2400,23,30,7,6.58,-74.17,A,"Muller et al ., 1983"
+Ailurus fulgens,Ursidae,5740,25,36,11,33.1,103.27,W,McNab 1988
+Genetta tigrina,Viverridae,1732,26,35,9,-33.11,22.05,A,Henneman and Konecy 1980
+Nandinia binotata,Viverridae,4270,27,34,7,48.13,35.51,A,McNab 1995
+Arctictis binturong,Viverridae,14280,27,36,9,38.55,101.355,A,McNab 1995
+Arctogalidia trivirgata,Viverridae,2010,19,38,19,44.44,101.35,A,McNab 1995
+Paradoxurus hermaphroditus,Viverridae,3160,27,36,9,39.08,105.18,A,McNab 1995
+,Chiroptera,,,,,,,,
+Saccopteryx bilineata,Emballonuridae,8.2,30,35,5,10.25,-85.05,W,Genoud and Bonaccorso 1986
+Peropteryx macrotis,Emballonuridae,5.1,30.5,37,6.5,11.25,-69.51,W,"Genoud et al ., 1990"
+Rhinonicteris aurantia,Hipposideridae,8.27,32.5,37.5,5,33.49,-112.35,W,"Baudinette et al ., 2000"
+Hipposideros maggietaylorae,Hipposideridae,18.2,30,34,4,-5.225,145.81,W,Bonaccorso and McNab 2003
+Hipposideros diadema,Hipposideridae,37.2,29,34,5,-5.211,145.8,W,Bonaccorso and McNab 2003
+Hipposideros galeritus,Hipposideridae,8.5,29,32,3,3.855,114.432,W,McNab 1989
+Macroderma gigas,Megadermatidae,107,30,35,5,-23.299,147.8,W,"Baudinette et al., 2000, Leitner and Nelson"
+,,,,,,,,,1966
+Molossus molossus,Molossidae,15.6,32,36,4,-20.492,-49.222,W,McNab 1969
+Tadarida brasiliensis,Molossidae,16.9,26.3,32.7,6.4,-18.291,-64.063,W,"Soriano et al ., 2002"
+Mormoops megalophylla,Mormoopidae,16.5,33.5,39.5,6,11.48,-71.195,W,"Bonaccorso et al ., 1992"
+Pteronotus davyi,Mormoopidae,9.4,34.5,43,8.5,11.482,-71.191,W,"Bonaccorso et al ., 1992"
+Pteronotus parnellii,Mormoopidae,19.2,34,40.5,6.5,11.485,-71.192,W,"Bonaccorso et al ., 1992"
+Pteronotus personatus,Mormoopidae,14,34,38.5,4.5,11.488,-71.193,W,"Bonaccorso et al ., 1992"
+,,,,,,,,,
+Chrotopterus auritus,Mormoopidae,96.1,28,34,6,-19.371,-43.531,W,McNab 1969
+Pteronotus quadridens,Mormoopidae,4.9,30,38,8,1.914,-75.145,W,Rodriguez-Duran 1995
+Mormoops blainvillei,Mormoopidae,8.6,30,36,6,18.397,-67.15,W,Rodriguez-Duran 1995
+Natalus tumidirostris,Natalidae,5.4,28,35,7,11.471,-70.142,W,"Genoud et al ., 1990"
+Diaemus youngi,Natalidae,36.6,25,30,5,-41.013,-62.472,W,McNab 1969
+Desmodus rotundus,Natalidae,29.4,29,37.5,8.5,-20.053,-56.472,W,McNab 1969
+Noctilio albiventris,Noctilionidae,27,32,38,6,-20.055,-56.471,W,McNab 1969
+Noctilio leporinus,Noctilionidae,61,28,38,10,-20.051,-56.475,W,McNab 1969
+Glossophaga longirostris,Phyllostomidae,13.5,31.5,36,4.5,11.472,-70.143,W,"Arends et al ., 1995"
+Leptonycteris curasoae,Phyllostomidae,24,27,35,8,11.472,-70.141,W,"Arends et al ., 1995"
+Leptonycteris yerbabuenae,Phyllostomidae,44,35.5,38,2.5,32.133,-110.51,W,"Arends et al ., 1995"
+Glossophaga soricina,Phyllostomidae,9.6,31.4,35.2,3.8,-6.11,-62.291,W,Cruz-Neto and Abe 1997
+Phyllostomus elongatus,Phyllostomidae,35.6,25,36,11,-41.015,-62.473,W,McNab 1969
+Uroderma bilobatum,Phyllostomidae,16.2,30,35,5,-41.017,-62.477,W,McNab 1969
+Tonatia bidens,Phyllostomidae,27.4,28,35,7,-41.016,-62.476,W,McNab 1969
+Artibeus concolor,Phyllostomidae,19.7,29,38,9,-41.012,-62.471,W,McNab 1969
+Rhinophylla pumilio,Phyllostomidae,9.5,30,35,5,-41.015,-62.475,W,McNab 1969
+Phyllostomus hastatus,Phyllostomidae,84.2,25,35,10,-41.014,-62.474,W,McNab 1969
+Artibeus lituratus,Phyllostomidae,70.1,25,36,11,-23.5,-46.37,W,McNab 1969
+Phyllostomus discolor,Phyllostomidae,33.5,25,37,12,-20.491,-49.223,W,McNab 1969
+Carollia perspicillata,Phyllostomidae,14.9,29,35,6,-20.056,-56.47,W,McNab 1969
+Artibeus jamaicensis,Phyllostomidae,45.2,25,35,10,-20.054,-56.471,W,McNab 1969
+Sturnira lilium,Phyllostomidae,21.9,30,35.5,5.5,-20.052,-56.475,W,McNab 1969
+Diphylla ecaudata,Phyllostomidae,27.8,26,30,4,-19.372,-43.523,W,McNab 1969
+Anoura caudifer,Phyllostomidae,11.5,26,35,9,-19.07,-44.19,W,McNab 1969
+Choeroniscus periosus,Phyllostomidae,15,28.2,37.7,9.5,-23.54,-46.63,W,McNab 1969
+Monophyllus redmani,Phyllostomidae,8.7,31,35,4,18.391,-67.155,W,Rodriguez-Duran 1995
+Erophylla bombifrons,Phyllostomidae,16.1,30,33,3,18.393,-67.151,W,Rodriguez-Duran 1995
+Anoura latidens,Phyllostomidae,13.6,34.7,36.2,1.5,-18.293,-64.061,W,"Soriano et al ., 2002"
+Sturnira erythromos,Phyllostomidae,15.9,25.5,32.5,7,-18.292,-64.062,W,"Soriano et al ., 2002"
+Macroglossus minimus,Pteropodidae,16.3,30.9,33,2.1,-16.55,145.46,W,"Bartels et al ., 1998"
+Pteropus scapulatus,Pteropodidae,440,24,35,11,-28.316,153.4,W,"Bartholomew et al ., 1964"
+Pteropus poliocephalus,Pteropodidae,825,15,35,20,-27.471,153.023,W,"Bartholomew et al ., 1964"
+Dobsonia minor,Pteropodidae,73.7,27.5,35,7.5,-5.28,147.52,W,"Bartholomew et al ., 1970"
+Melonycteris melanops,Pteropodidae,53.3,28,33,5,-5.11,145.597,W,Bonaccorso and McNab 1997
+Syconycteris australis,Pteropodidae,17.8,29.5,33,3.5,-7.2,146.23,W,"Geiser et al ., 1996"
+Eonycteris spelaea,Pteropodidae,51.6,26,32.5,6.5,3.851,114.431,W,McNab 1989
+Cynopterus brachyotis,Pteropodidae,37.4,30,37,7,4.53,114.56,W,McNab 1989
+Pteropus rodricensis,Pteropodidae,254.5,24,35.5,11.5,-27.145,153.658,W,McNab and Bonaccorso 2001
+Dobsonia praedatrix,Pteropodidae,179.5,26,33,7,-5.07,150.031,W,McNab and Bonaccorso 2001
+Dobsonia anderseni,Pteropodidae,241.4,28,34,6,57.37,150.032,W,McNab and Bonaccorso 2001
+,,,,,,,,,
+Nyctimene albiventer,Pteropodidae,30.9,28,34,6,-6.18,147.51,W,McNab and Bonaccorso 2001
+Histiotus velatus,Vesperitilionidae,11.2,25,31,7,-20.493,-49.221,W,McNab 1969
+Miniopterus schreibersii,Vespertilionidae,10.91,32.5,37.5,5,-12.275,130.5,W,"Baudinette et al ., 2000"
+Lasiurus cinereus,Vespertilionidae,27.5,30,34,4,35.01,-106.62,A,Cryan and Wolf 2003
+Myotis thysanodes,Vespertilionidae,6,32.5,36.5,4,35.65,-105.65,W,O'Farrell and Studier 1970
+Nyctophilus gouldi,Vespertilionidae,10,30.7,32.5,1.8,30.354,151.443,W,Geiser and Brigham 2000
+Nyctophilus geoffroyi,Vespertilionidae,7,29.1,33.2,4.1,30.355,151.445,W,Geiser and Brigham 2000
+Chalinolobus gouldii,Vespertilionidae,17.5,35,40,5,-32.04,115.51,W,Hosken and Withers 1997
+Myotis keaysi,Vespertilionidae,5,29.2,33.4,4.2,8.382,-71.261,W,Machado and Soriano 2007
+Myotis oxyotus,Vespertilionidae,4.8,25.2,32.5,7.3,8.381,-71.266,W,Machado and Soriano 2007
+Myotis lucifugus,Vespertilionidae,9.5,32.5,34.5,2,38.62,-92.566,W,Machado and Soriano 2007
+Vespadelus vulturnus,Vespertilionidae,4,27.6,33.3,5.7,-30.35,151.44,W,"Willis et al ., 2005"
+,Cingulata,,,,,,,,
+Chaetophractus nationi,Dasypodidae,2150,29,35,6,-16.17,-63.35,A,McNab 1980
+Chaetophractus vellerosus,Dasypodidae,1110,30,35,5,-40.431,-63.371,A,McNab 1980
+Dasypus novemcinctus,Dasypodidae,3320,28,38,10,29.391,-82.19,W,McNab 1980
+Euphractus sexcinctus,Dasypodidae,8190,26,37,11,-22.37,-44.4,A,McNab 1980
+Tolypeutes matacus,Dasypodidae,1160,28,36,8,-40.432,-63.372,A,McNab 1980
+Zaedyus pichiy,Dasypodidae,1740,28,35,7,-40.433,-63.373,W,McNab 1980
+,Dasyuromorphia,,,,,,,,
+Dasycercus cristicauda,Dasyuridae,86,30,37,7,-37.63,145.78,W,Kennedy and Macfarlane 1971
+Ningaui yvonnae,Dasyuridae,11.6,32,35,3,-42.434,146.59,W,Geiser and Baudinette 1988
+Planigale gilesi,Dasyuridae,9.4,28,33,5,-36.46,174.36,A,Geiser and Baudinette 1988
+Planigale maculata,Dasyuridae,13.1,31,35,4,-12.28,131.03,A,Morton and Lee 1978
+Sminthopsis crassicaudata,Dasyuridae,19,31,38,7,-22.75,133.79,W,Geiser and Baudinette 1988
+Sminthopsis macroura,Dasyuridae,24.8,31.3,34,2.7,-37.72,145.04,W,"Song et al .,1995"
+,Didelphimorpha,,,,,,,,
+Caluromys derbianus,Didelphidae,357,26.36,35,8.64,9.08,-79.423,A,McNab 1978
+Chironectes minimus,Didelphidae,946,24.5,34,9.5,8.32,-80.461,W,McNab 1978
+Didelphis marsupialis,Didelphidae,1329,25.5,36,10.5,23.38,-79.53,W,McNab 1978
+Didelphis virginiana,Didelphidae,3257,22,34,12,29.393,-82.193,W,McNab 1978
+Lutreolina crassicaudata,Didelphidae,812,27,35,8,-41.241,-63.374,A,McNab 1978
+Marmosa lepida,Didelphidae,106,31,35,4,36.057,-115.131,W,Nelson and Yousaf 1979
+Marmosa robinsoni,Didelphidae,122,26,36,10,8.53,-80.78,W,McNab 1978
+Metachirus nudicaudatus,Didelphidae,336,27.5,36,8.5,9.33,-79.39,W,McNab 1978
+Monodelphis brevicaudata,Didelphidae,111,28.76,36,7.24,10.42,-70.57,W,McNab 1978
+Philander opossum,Didelphidae,751,29.5,36,6.5,9.01,-79.5,A,McNab 1978
+Thylamys elegans,Didelphidae,40.2,27.5,35,7.5,-23.445,-69.603,A,"Bozinovic et al ., 2005"
+,Diprotodontia,,,,,,,,
+Acrobates pygmaeus,Burramyidae,14,34,35.1,1.1,-37.57,145.33,W,Fleming 1985
+Cercartetus lepidus,Burramyidae,12,29,33,4,-35.47,141.29,A,Geiser 1987
+,,,,,,,,,
+Cercartetus concinnus,Burramyidae,18.6,28,30,2,-30,136.209,W,Geiser 1987
+Lagorchestes conspicillatus,Macropodidae,2660,25,35,5,-20.45,115.25,W,Dawson and Bennett 1978
+Macropus giganteus,Macropodidae,26200,15,35,20,-35.151,145.345,W,"Dawson and Hulbert 1970; Dawson et al .,"
+,,,,,,,,,2000
+Macropus rufus,Macropodidae,32490,25,35,10,-35.112,145.34,W,"Dawson and Hulbert 1970; Dawson et al .,"
+,,,,,,,,,2000
+Setonix brachyurus,Macropodidae,2674,20,32.5,12.5,-31.99,115.54,W,Kinnear and Shield 1975
+Dendrolagus matschiei,Macropodidae,6960,27,37,10,-5.315,141,A,McNab 1988
+Petaurus breviceps,Petauridae,128.1,27,31,4,-37.46,145.12,W,Fleming 1980; Dawson and Hulbert 1970
+Phalanger carmelitae,Phalangeridae,1389.7,12.5,32.5,20,-5.233,145.788,A,McNab 2008
+Spilocuscus maculatus,Phalangeridae,4250,20.8,35.4,14.6,-5.092,140.711,W,Dawson and Degabriele 1973
+Phalanger sericeus,Phalangeridae,1353.2,15,30,15,-4.716,145.25,A,McNab 2008
+Phascolarctos cinereus,Phascolarctidae,4765,20,26,6,-31.15,146.55,A,Degabriele and Dawson 1979
+Potorous tridactylus,Potoroidae,1120,20,30,10,-42.541,147.19,W,Nicol 1976
+Bettongia gaimardi,Potoroidae,1700,10,20,10,-40.42,147.14,A,Rose 1997
+Cercartetus nanus,Pseudocheiridae,70,31,35,4,-42.522,147.192,W,Bartholomew and MacMillen 1961
+Pseudocheirus peregrinus,Pseudocheiridae,872,25,32.5,7.5,-27.671,121.62,W,Kinnear and Shield 1975
+Cercopithecus mitis,Pseudocheiridae,8500,5,28,23,-1.171,36.471,A,"Muller et al ., 1983"
+Petauroides volans,Pseudocheiridae,1141,18,25,7,-31.53,151.68,A,"Rübsamen et al ., 1984"
+Tarsipes rostratus,Tarsipedidae,10,28,34,6,-33.56,119.3,W,"Withers et al ., 1990"
+Lasiorhinus latifrons,Vombatidae,25000,25,39,14,-33.331,22.561,W,Wells 1978
+,Erinaceomorpha,,,,,,,,
+Atelerix albiventris,Erinaceidae,450,30,35,5,-0.48,11.363,W,McNab 1980
+Erinaceus concolor,Erinaceidae,822.7,27.5,31.5,4,50,20,W,Krol 1994
+,Eulipotyphla,,,,,,,,
+Crocidura russula,Soricidae,10.4,27.5,35,7.5,46.51,6.63,W,Sparti 1990
+Crocidura suaveolens,Soricidae,6.5,27.5,35,7.5,46.22,8.742,W,Sparti 1990
+,Hyracoidae,,,,,,,,
+Heterohyrax brucei,Procaviidae,2000,25,35,10,-1.173,36.49,W,Bartholomew and Rainey 1971
+Procavia capensis,Hyracoidea,2400,27,35,8,0.22,37.54,A,"Rubsamen et al ., 1979"
+,Lagomorpha,,,,,,,,
+Brachylagus idahoensis,Leporidae,432,17.5,25.5,8,41.6,-106.35,W,"Katzner et al ., 1997"
+Lepus alleni,Leporidae,3362,25,35,10,32.148,-111.1,W,Dawson and Schmidt-Nielsen 1966
+Sylvilagus audubonii,Leporidae,672.4,28,40,12,32.137,-110.55,A,Hinds 1973
+,Macroscelidae,,,,,,,,
+Elephantulus edwardii,Macroscelididae,49.8,32.5,36,3.5,-32.28,21.15,A,"Leon et al ., 1983"
+Macroscelides proboscideus,Macroscelididae,45,35,38,3,-32.29,26.41,W,Roxburg and Perrin 1994
+,Monotremata,,,,,,,,
+Zaglossus bruijni,Tachyglossidae,10300,18,33,15,-5.0778,140.444,A,McNab 1984
+,Peramelemorpha,,,,,,,,
+Isoodon obesulus,Peramelidae,1020,25,35,10,-31.95,115.85,W,Larcombe 2002
+,,,,,,,,,
+Macrotis lagotis,Thylacomyidae,1011,27,35,8,-26.08,126.34,W,Kinnear and Shield 1975
+,Pilosa,,,,,,,,
+Tamandua tetradactyla,Myrmecophagidae,3500,23,35,12,-23.442,-58.444,A,McNab 1984
+,Primates,,,,,,,,
+Callithrix pygmaea,Cebidae,153,27,34,7,47.36,-8.53,A,"Genoud et al ., 1997"
+Saimiri sciureus,Cebidae,850,25,35,10,-5.391,-62.292,A,Stitt and Hardy 1971; Malinow and Wagner
+,,,,,,,,,1966
+Colobus guereza,Cercopithecidae,10500,5,28,23,-1.172,36.475,A,"Muller et al ., 1983"
+Macaca fuscata,Cercopithecidae,9.55,32.5,35,2.5,36,138,W,"Nakayama et al ., 1971"
+Microcebus murinus,Cheirogaleidae,105,25,28,3,48.7,2.5,A,"Aujard et al ., 1998"
+Eulemur fulvus,Lemuridae,2330,30,40,10,29.395,-82.194,W,Daniel 1984
+Perodicticus potto,Lorisidae,1090,25,29,4,-1.48,11.362,W,Hildwein and Goffart 1975
+Nycticebus coucang,Lorisidae,1300,25,33,8,4.12,101.58,A,Muller 1979
+Nycticebus pygmaeus,Lorisidae,388,27.5,35,7.5,23.07,104.03,W,"Xiao C et al ., 2010"
+Tarsius syrichta,Tarsiidae,125,32,35,3,9.849,124.143,A,McNab and Wright 1987
+,Rodentia,,,,,,,,
+Aplodontia rufa,Aplodontidae,630,26.5,35,8.5,44.3,-123.33,W,McNab 1979
+Cryptomys hottentotus,Bathyergidae,102,28,32,4,-15.23,28.21,W,"Bennett et al ., 1994"
+Cryptomys bocagei,Bathyergidae,94,31.5,32.5,1,-14.53,13.28,W,"Bennett et al ., 1994"
+Cryptomys mechowi,Bathyergidae,267,29,30,1,-12.271,27.51,W,"Bennett et al ., 1994"
+Cryptomys damarensis,Bathyergidae,124,27,31,4,-25.47,20.01,W,Lovegrove 1986
+Georychus capensis,Bathyergidae,192.6,26.3,34,7.7,-34.12,18.23,W,Lovvegrove 1987
+Heterocephalus glaber,Bathyergidae,39.2,31,37,6,-2.45,36.495,A,McNab 1966
+Dolichotis salinicola,Caviidae,1613,28,37,9,-23.26,-58.57,A,Arends and McNab 2001
+Kerodon rupestris,Caviidae,801,27,36,9,-12.31,-44.09,A,Arends and McNab 2001
+Hydrochoerus hydrochaeris,Caviidae,26400,22,33,11,7.15,-66.08,A,Arends and McNab 2001
+Microtus guentheri,Cricetidae,51.3,30,34,4,32.233,34.48,W,"Banin et al ., 1993"
+Microtus californicus,Cricetidae,44,33,40,7,33.3,-116.03,W,"Bell et al ., 1986"
+Microtus longicaudus,Cricetidae,26.9,26.5,33.5,7,46.08,-117.8,W,"Bell et al ., 1986"
+Phyllotis darwini,Cricetidae,59,27.5,34,6.5,-45.544,-71.223,W,Bozinovic and Rosenmann 1988
+Loxodontomys micropus,Cricetidae,62.3,22,33,11,-34.57,-70.82,W,Bozinovic and Rosenmann 1988
+Peromyscus maniculatus,Cricetidae,17,29,37,8,43.581,-74.235,W,Brower and Cade 1966
+Megadontomys thomasi,Cricetidae,111,28,35,7,17.55,-99.5,W,Buffenstein and Jarvis 1985
+Myodes gapperi,Cricetidae,20.8,26,34,8,39.69,-105.64,W,Deavers and Hudson 1981
+Peromyscus leucopus,Cricetidae,21.2,27.5,34.5,7,42.277,-76.322,W,Deavers and Hudson 1981
+Isthmomys pirrensis,Cricetidae,140.4,32,34,2,7.52,-77.5,A,Hill 1975
+Microtus arvalis,Cricetidae,24,20,30,10,52.34,11.09,W,Jansky 1959
+Ochrotomys nuttalli,Cricetidae,19.5,29.5,36,6.5,29.15,-83.16,W,Layne and Dolan 1975
+Peromyscus gossypinus,Cricetidae,21.5,29.7,35.3,5.6,29.397,-82.185,W,Layne and Dolan 1975
+Neotoma lepida,Cricetidae,106,31,35,4,35.32,-115.2,W,McNab 1966
+Oxymycterus roberti,Cricetidae,83.5,33,34,1,-15.577,-49.36,A,McNab 1984
+,,,,,,,,,
+Neofiber alleni,Cricetidae,258.1,25,34,9,29.79,82.49,W,McNab 1992
+Ondatra zibethicus,Cricetidae,1004.6,15,30,15,40.71,-74.006,A,McNab 1992
+Microtus pinetorum,Cricetidae,23.8,23,35,12,42.442,-76.47,A,McNab 1992
+Lemmiscus curtatus,Cricetidae,30.3,25,33,8,43.8,-120.55,W,McNab 1988
+Microtus richardsoni,Cricetidae,51.3,22.5,33.5,11,44.19,-121.65,W,McNab 1988
+Peromyscus californicus,Cricetidae,49.6,27,34.5,7.5,37.8715,-122.272,W,McNab and Morrison 1963
+Peromyscus truei,Cricetidae,33,27,33,6,38.35,-81.66,W,McNab and Morrison 1963
+Peromyscus crinitus,Cricetidae,20.9,29,35,6,40.22,-122.74,W,McNab and Morrison 1963
+Peromyscus eremicus,Cricetidae,21.5,30,36.5,6.5,41.52,-116.34,W,McNab and Morrison 1963
+Microtus montanus,Cricetidae,51.2,26,31,5,46.43,-117.1,A,Packard 1968
+Reithrodontomys megalotis,Cricetidae,7.6,32,35,3,35.17,-119.42,W,Pearson 1960
+Myopus schisticolor,Cricetidae,26.4,20.9,24,3.1,65.19,25.26,A,Saarela and Hissa 1993
+Cricetulus barabensis,Cricetidae,31.4,27,30,3,39.25,116.34,W,Song and Wang 2003
+Graomys griseoflavus,Cricetidae,69.4,25.6,34,8.4,-33.2,-60.21,W,"Vidal et al ., 1987"
+Phodopus sungorus,Cricetidae,24,20,35,15,50.48,8.46,A,Weiner and Heldmaier 1987
+Onychomys torridus,Cricetidae,19.1,30,35,5,32.19,-106.45,W,Whitford and Conley 1971
+Microtus pennsylvanicus,Cricetidae,38.9,25,29,4,45.54,-111.32,W,Wiegert 1961
+Microtus ochrogaster,Cricetidae,47.4,25,34,9,40.35,-105.05,W,"Wunder et al ., 1977"
+Ctenomys talarum,Ctenomyidae,116,25,30,5,-37.46,-59.51,W,Busch 1989
+Priodontes maximus,Dasypodidae,45190,27,34,7,4.51,-58.55,A,McNab 1980
+Cabassous centralis,Dasypodidae,3810,27.5,32.5,5,8.38,-80.462,A,McNab 1980
+Dasyprocta azarae,Dasyproctidae,3849,18,35,17,-25.17,-59.52,A,Arends and McNab 2001
+Myoprocta acouchy,Dasyproctidae,914,25,30,5,4.57,-55.65,A,Arends and McNab 2001
+Dasyprocta leporina,Dasyproctidae,2687,20,34,14,10.22,-66.48,A,Arends and McNab 2001
+Napaeozapus insignis,Dipodidae,20.9,30,34,4,44.13,-73.51,W,Brower and Cade 1966
+Jaculus jaculus,Dipodidae,74.5,33,35,2,32.561,-3.116,W,Hooper and Hilali 1972
+Jaculus orientalis,Dipodidae,139.1,28,33,5,32.562,-3.111,W,Hooper and Hilali 1972
+Thrichomys apereoides,Echimyidae,323,25,35,10,-14.26,39.13,A,Arends and McNab 2001
+Erethizon dorsatum,Erethizontidae,7710,0,20,20,61.41,-147.54,A,"Irving et al ., 1995"
+Geomys bursarius,Geomyidae,197,30,33,3,45.1,-93.16,W,Bradley and Yousaf 1975
+Thomomys umbrinus,Geomyidae,85,27,35,8,36.15,-115.142,W,"Bradley et al ., 1974"
+Thomomys talpoides,Geomyidae,106,26,32,6,37.44,-119.34,W,"Bradley et al ., 1974"
+Geomys pinetis,Geomyidae,202,26,35,9,29.4,-82.195,A,McNab 1966
+Thomomys bottae,Geomyidae,143,28,30,2,33.59,-117.59,W,Vleck 1979
+Chaetodipus intermedius,Heteromyidae,15.2,33,36,3,35.21,-113.76,W,"Bradley et al ., 1975"
+Dipodomys microps,Heteromyidae,57.2,27,32,5,36.052,-115.132,W,"Breyen et al ., 1973"
+Chaetodipus penicillatus,Heteromyidae,16,31,37,6,43.583,-74.231,W,Brower and Cade 1966
+Dipodomys merriami,Heteromyidae,34.7,32,35,3,43.584,-74.233,W,Dawson 1955
+Dipodomys panamintinus,Heteromyidae,64.2,33,34,1,43.582,-74.233,W,Dawson 1955
+Liomys salvini,Heteromyidae,43.8,31,34,3,12.08,-86.15,W,Hudson and Rummel 1966
+Liomys irroratus,Heteromyidae,48.1,31,34,3,27.06,-99.32,W,Hudson and Rummel 1966
+,,,,,,,,,
+Heteromys anomalus,Heteromyidae,69.3,26,33,7,9.1,-64.37,W,McNab 1979
+Dipodomys deserti,Heteromyidae,106,28.5,35,6.5,35.46,-119.49,W,McNab 1979
+Chaetodipus hispidus,Heteromyidae,35.8,30.5,33.5,3,27.59,-97.312,W,Wang and Hudson 1970
+Hystrix africaeaustralis,Hystricidae,10700,24,27,3,-32.22,22.11,A,"Haim et al ., 1990"
+Abrothrix longipilis,Muridae,42.3,27.3,32,4.7,-45.541,-71.221,W,Bozinovic and Rosenmann 1988
+Abrothrix andinus,Muridae,34.6,26.8,34,7.2,-34.462,-71.224,W,Bozinovic and Rosenmann 1988
+Auliscomys boliviensis,Muridae,76.8,22.7,31,8.3,-34.461,-71.225,W,Bozinovic and Rosenmann 1988
+Micaelamys namaquensis,Muridae,64.2,26.39,34.49,8.1,-25.68,20.33,A,Buffenstein 1984
+Gerbillurus paeba,Muridae,33.9,32.3,35.1,2.8,-23.29,15.32,A,Buffenstein 1984
+Gerbillus pusillus,Muridae,12.6,31.4,38,6.6,0.38,37.47,W,Buffenstein and Jarvis 1985
+Mus musculus,Muridae,46,27,33,6,42.445,-76.5,A,Buffenstein and Jarvis 1985
+Rattus fuscipes,Muridae,76,28.1,32.9,4.8,-30.17,115.02,A,Collins 1973
+Rattus villosissimus,Muridae,250.6,30,35,5,-22.59,131.54,W,Collins and Brdshaw 1973
+Akodon azarae,Muridae,23.5,30,32,2,44.18,-85.36,A,Dalby and Heath 1976
+Gerbillurus setzeri,Muridae,46.1,32.2,34.8,2.6,-24.08,14.98,W,"Dempster et al .,1998"
+Gerbillurus vallinus,Muridae,38.8,33.1,35,2.9,-22.52,17.07,W,"Dempster et al .,1999"
+Gerbillurus tytonis,Muridae,29.9,32.4,34.9,2.5,-29.04,21.85,W,Downs and Perrin 1990
+Mystromys albicaudatus,Muridae,93.78,20,30,10,-25,28.07,W,Downs and Perrin 1995
+Gerbillus andersoni,Muridae,35.8,28,35,7,32.361,34.55,W,Haim 1984
+Gerbillus nanus,Muridae,28.2,33,34,1,32.362,34.556,A,Haim 1984
+Dipodillus dasyurus,Muridae,27.6,32,35,3,32.31,34.933,A,Haim 1987
+Otomys irroratus,Muridae,111.6,24,28,4,-25.433,28.133,W,Haim and Fairall 1987
+Apodemus mystacinus,Muridae,42.3,28,32,4,33,35,W,"Haim et al ., 1993"
+Mus macedonicus,Muridae,14.5,28,33,5,32.44,35.03,A,"Haim et al ., 1999"
+Baiomys taylori,Muridae,7.3,29,36,7,28.01,-97.313,A,Hudson 1965
+Apodemus agrarius,Muridae,24.4,25,27.5,2.5,48.29,124.51,W,"Liu et al ., 2004"
+Apodemus speciosus,Muridae,28.5,25,30,5,48.923,124.512,W,"Liu et al ., 2004"
+Thallomys paedulcus,Muridae,124.7,27.46,35.89,8.43,-25.1,20.58,W,"Lovegrove et al ., 1991"
+Notomys cervinus,Muridae,34.2,33,34,1,-25.34,137.1,W,MacMillen and Lee 1970
+Notomys alexis,Muridae,32.3,32,34,2,-23.45,133.531,W,MacMillen and Lee 1970
+Pseudomys hermannsburgensis,Muridae,12.2,31,36,5,-23.7,133.88,W,"MacMillen et al ., 1972"
+Cannomys badius,Muridae,344,26.74,34.5,7.76,15.52,100.59,W,McNab 1979
+Gerbillus pyramidum,Muridae,53,30,31,1,2.02,22.52,W,Robinson 1959
+Meriones unguiculatus,Muridae,61,30,40,10,46.51,84.24,W,Robinson 1959
+Aepyprymnus rufescens,Muridae,2820,25,33,8,-28.92,152.37,A,"Rübsamen et al ., 1984"
+Acomys cahirinus,Muridae,42,27,32.5,5.5,30.03,35.02,A,Shkolnikand Borut 1969
+Saccostomus campestris,Nesomyidae,61.3,28,32,4,-25.33,27.39,A,"Haim et al ., 1991"
+Steatomys pratensis,Nesomyidae,37.5,28,32,4,-28.55,29.5,W,Perrin and Richardson 2005
+Octodon degus,Octodontidae,206,27,35,8,-37.04,-66.16,A,Arends and McNab 2001
+Octodontomys gliroides,Octodontidae,152,25,35,10,-42.453,-66.14,A,Arends and McNab 2001
+Spalacopus cyanus,Octodontidae,185,26.5,34,7.5,-32.56,-71.31,W,Contreras 1986; McNab 1979
+,,,,,,,,,
+Pedetes capensis,Pedetidae,2300,23,33,10,-1.174,36.493,W,"Muller et al., 1979"
+Spermophilus beecheyi,Sciuridae,599.6,25,30,5,33.412,-117.47,W,Baudinette 1972
+Ammospermophilus leucurus,Sciuridae,96,31,34,3,34.36,-117.51,W,Dawson 1955
+Tamiasciurus hudsonicus,Sciuridae,231,15,27,12,50.29,-98.31,A,Pauls 1981
+Cynomys ludovicianus,Sciuridae,1112.3,30,35,5,47.17,-112.24,W,"Reinking et al ., 1977"
+Spermophilus lateralis,Sciuridae,257,23,30,7,40.58,122.391,A,Tattersall and Milsom 2003
+Tamias striatus,Sciuridae,92.2,28.5,32,3.5,42.448,-76.496,W,Wang and Hudson 1971
+Tamias minimus,Sciuridae,50.6,26,34,8,38.54,-106.92,W,Willems and Armitage 1975
+Tamias merriami,Sciuridae,75,29,35,6,35.55,-120.09,W,Wunder 1970
+Tachyoryctes splendens,Spalacidae,191,27,35,8,-1.77,36.492,A,McNab 1966
+Spalax leucodon,Spalacidae,207.7,25,34,9,41.23,33.46,A,McNab 1966
+,Scandentia,,,,,,,,
+Tupaia belangeri,Tupaiidae,186,27.5,35,7.5,26.22,102.13,W,"Zhang et al ., 2012"
+Tupaia glis,Tupaiidae,123,30,37,7,10.32,101.37,A,Bradley and Hudson 1974
+,Soricomorpha,,,,,,,,
+Blarina brevicauda,Soricidae,20.5,25,33,8,42.273,-76.32,W,Deavers and Hudson 1981; Neal and Lustik
+,,,,,,,,,1973
+Neomys anomalus,Soricidae,13.4,25,30,5,52.77,23.84,W,Gebczynska and Gebczynski 1965
+Neomys fodiens,Soricidae,14.2,25,30,5,52.9,23.12,W,Gebczynska and Gebczynski 1965
+Notiosorex crawfordi,Soricidae,4,32,36,4,32.237,-110.49,W,Lindstedt 1980
+Sorex minutus,Soricidae,4.45,24,30,6,53.28,6.15,W,McDevitt and Andrews 1995
+Sorex cinereus,Soricidae,3.5,25,30,5,-37.79,122.26,W,"Morrison et al ., 1959"
+Neurotrichus gibbsii,Talpidae,11.8,25,32,7,49.3,-123.1,A,Campbell and Hochachka 2000
+Condylura cristata,Talpidae,49,24.5,33,8.5,49.06,-95.59,W,"Campbell et al ., 1999"
+Scalopus aquaticus,Talpidae,48,26,33,7,29.399,-82.196,W,McNab 1979
