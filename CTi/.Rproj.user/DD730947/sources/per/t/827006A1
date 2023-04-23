@@ -1,0 +1,27 @@
+{
+    "id": "827006A1",
+    "path": "E:/Internship/Climate variables/Calculate_CTi_ZH.R",
+    "project_path": "Calculate_CTi_ZH.R",
+    "type": "r_source",
+    "hash": "894250352",
+    "contents": "",
+    "dirty": false,
+    "created": 1659093075587.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "157,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1659092803,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1659092803,
+    "read_only": false,
+    "read_only_alternatives": []
+}
