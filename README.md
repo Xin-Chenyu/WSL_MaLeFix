@@ -19,3 +19,6 @@ You can find the short descrption of each folder in the following table
 | CTi   | All the **code, results and plots** for **Critical Temperature index (CTi)** calculation.  |
 | water temperature   | All the data is needed to calculate the **water temperature in rivers Doubs and Rhone**. Including the **raster files** of water temperature downloaded from Google Earth Engine, the **shapefile** of water monitoring stations, the correlation between measured water temperature and land surface temperature /brightness temperature calculated by remote sensing.    |
 
+
+download raster images from https://drive.google.com/file/d/1Fl_QCe-ZlA82sRFIc4UdYTBkWFVmUMzn/view, extract to Water temperature/Raster images
+
