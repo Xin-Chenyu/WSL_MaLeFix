@@ -20,5 +20,5 @@ You can find the short descrption of each folder in the following table
 | water temperature   | All the data is needed to calculate the **water temperature in rivers Doubs and Rhone**. Including the **raster files** of water temperature downloaded from Google Earth Engine, the **shapefile** of water monitoring stations, the correlation between measured water temperature and land surface temperature /brightness temperature calculated by remote sensing.    |
 
 
-download raster images from https://drive.google.com/file/d/1Fl_QCe-ZlA82sRFIc4UdYTBkWFVmUMzn/view, extract to Water temperature/Raster images
+Note: The raster files downloaded from Google Earth Engine are too large to upload to GitHub. They can be found here：https://drive.google.com/drive/folders/15-_f69Ga64J9AIHzxw3JiHZE02YhZLC3?usp=sharing
 
